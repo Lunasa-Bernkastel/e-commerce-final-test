@@ -33,7 +33,7 @@
         <li>
           <router-link to="/user/profile-details" class="dropdown-item d-flex align-items-center gap-2 py-2">
             <i class="fa-regular fa-user text-secondary"></i>
-            <span>Profile</span>
+            <span>Profiless</span>
           </router-link>
         </li>
         <li>

@@ -1,0 +1,104 @@
+{
+  "products": {
+    "brands": [
+    "Vans", "Bohoo", "Mango", "Reebok", "Converse", 
+    "Sandro", "Nike", "Adidas", "Dior", "Puma", 
+    "Zara", "Bershka", "American Eagle"
+  ],
+  "popularItems": [
+    {
+      "id": 1,
+      "price": 200000,
+      "name": "Vintage chicago cubs white crewneck",
+      "size": "8",
+      "brand": "M",
+      "likes": 12,
+      "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": 2,
+      "price": 200000,
+      "name": "Red Crewneck",
+      "size": "8",
+      "brand": "M",
+      "likes": 12,
+      "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": 3,
+      "price": 200000,
+      "name": "Necklace",
+      "size": "8",
+      "brand": "M",
+      "likes": 12,
+      "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": 4,
+      "price": 200000,
+      "name": "Necklace",
+      "size": "8",
+      "brand": "M",
+      "likes": 12,
+      "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": 5,
+      "price": 200000,
+      "name": "Necklace",
+      "size": "8",
+      "brand": "M",
+      "likes": 12,
+      "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=400&q=80"
+    }
+  ],
+  "newProducts": [
+    {
+      "id": 10,
+      "price": 200000,
+      "name": "Vintage chicago cubs white crewneck",
+      "size": "8",
+      "brand": "M",
+      "likes": 12,
+      "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": 11,
+      "price": 200000,
+      "name": "Red Crewneck",
+      "size": "8",
+      "brand": "M",
+      "likes": 12,
+      "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": 12,
+      "price": 200000,
+      "name": "Necklace",
+      "size": "8",
+      "brand": "M",
+      "likes": 12,
+      "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": 13,
+      "price": 200000,
+      "name": "Necklace",
+      "size": "8",
+      "brand": "M",
+      "likes": 12,
+      "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": 14,
+      "price": 200000,
+      "name": "Necklace",
+      "size": "8",
+      "brand": "M",
+      "likes": 12,
+      "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=400&q=80"
+    }
+  ]
+  }
+  
+}
